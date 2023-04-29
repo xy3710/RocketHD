@@ -1,0 +1,3 @@
+[submodule "/home/justin/Code/RocketHD/RocketHD/lib/wifibroadcast"]
+	path = /home/justin/Code/RocketHD/RocketHD/lib/wifibroadcast
+	url = https://github.com/OpenHD/wifibroadcast
