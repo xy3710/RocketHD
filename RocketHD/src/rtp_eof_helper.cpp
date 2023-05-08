@@ -2,7 +2,7 @@
 // Created by consti10 on 06.12.22.
 //
 
-#include "rtp_eof_helper.h"
+#include "rtp_eof_helper.hpp"
 
 #include <vector>
 #include <iostream>

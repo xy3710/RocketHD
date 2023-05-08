@@ -14,7 +14,7 @@
 #include <utility>
 #include <list>
 
-#include "rtp_eof_helper.h"
+#include "rtp_eof_helper.hpp"
 
 /**
  * Creates a WB Transmitter that gets its input data stream from an UDP Port
